@@ -30,6 +30,16 @@ h5 {
 	font-weight: 700;
 	line-height: 20px;
 }
+
+th {
+	color: black;
+	text-align: center;
+}
+td {
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
 p.intro {
 	font-size: 16px;
 	margin: 12px 0 0;
@@ -243,6 +253,19 @@ hr {
 }
 .percent:after {
 	content: '%';
+	margin-left: 0.1em;
+	font-size: .8em;
+}
+.score{
+	display: inline-block;
+	font-size: 21px;
+	color: #121d1f;
+	line-height: 152px;
+	z-index: 2;
+}
+.score:after{
+
+	content: '点';
 	margin-left: 0.1em;
 	font-size: .8em;
 }

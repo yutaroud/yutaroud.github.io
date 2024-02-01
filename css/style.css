@@ -346,6 +346,10 @@ ol.type li a:hover {
 	padding: 5px;
 	color: #E87E04;
 }
+.portfolio-items{
+	display: flex;
+	flex-wrap: wrap;
+}
 /* Achivements Section */
 #achievements {
 	padding: 100px 0;

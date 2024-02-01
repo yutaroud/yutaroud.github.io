@@ -350,6 +350,9 @@ ol.type li a:hover {
 	display: flex;
 	flex-wrap: wrap;
 }
+.portfolio-items li{
+	width: 50%;
+}
 /* Achivements Section */
 #achievements {
 	padding: 100px 0;

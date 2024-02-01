@@ -507,12 +507,6 @@ ol.type li a:hover {
 	color: #E87E04;
 	text-align: left;
 }
-label {
-	font-size: 12px;
-	font-weight: 400;
-	font-family: 'Open Sans', sans-serif;
-	float: left;
-}
 #contact .social {
 	margin-top: 60px;
 }

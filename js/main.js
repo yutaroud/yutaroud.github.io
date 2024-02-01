@@ -86,12 +86,6 @@ $('#nav').affix({
 			});
 		}
 	});
-
-  	// Pretty Photo
-	$("a[rel^='prettyPhoto']").prettyPhoto({
-		social_tools: false
-	});
-
 }());
 
 
